@@ -1,0 +1,18 @@
+img{
+    border: 10px solid fuchsia;
+}
+
+p{
+    border: 10px solid green;
+    width: 200px;
+    margin: 50px;
+}
+
+div{
+    border: 10px dotted blue;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: baseline;
+}
